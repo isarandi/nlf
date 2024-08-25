@@ -1,4 +1,4 @@
-# Neural Localizer Fields for Continuous Human Pose and Shape Estimation
+# Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation
 [Paper](https://arxiv.org/abs/2407.07532) by István Sárándi and Gerard Pons-Moll
 
 Models are available und Releases, and a simple usage example is given in `demo.ipynb`. More extensive examples on advanced usage, detailed documentations and the full codebase are coming soon.
