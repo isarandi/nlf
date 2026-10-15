@@ -24,7 +24,7 @@ dependencies:
   - scikit-sparse
   - tqdm
   - conda-forge::mayavi>=4.8
-  - conda-forge::PySide6==6.7.1
+  - conda-forge::pyside6==6.7.1
   - conda-forge::ffmpeg-python
   - pip:
     - distutils
